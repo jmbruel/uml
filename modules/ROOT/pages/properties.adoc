@@ -14,13 +14,13 @@ WARNING: Work in progress.
 .A simple class (only a name) in plantUML
 [plantuml, Simple, svg, width=50%, pdfwidth=50%, align=center]   
 ....
-include::Simple.plantuml[]
+include::../images/Simple.plantuml[]
 ....
 
 .And its code
 [source,plantuml]
 ....
-include::Simple.plantuml[]
+include::../images/Simple.plantuml[]
 ....
 
 .Or its java implementation
