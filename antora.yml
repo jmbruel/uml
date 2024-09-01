@@ -11,9 +11,9 @@ version: '1.0'
 title: Unified Modeling Language
 
 # https://docs.antora.org/antora/2.3/component-start-page/
-start_page: ROOT:properties.adoc
+start_page: properties.adoc
 
 # https://docplayer.fr/169511571-Asciidoc-asciidoctor-antora.html
 nav:
-- modules/ROOT/nav.adoc
+- nav.adoc
 
