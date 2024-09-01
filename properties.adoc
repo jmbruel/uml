@@ -1,0 +1,30 @@
+//------------------------------------------
+[[class]]
+= Class and properties
+:source-highlighter: rouge
+:rouge-style: monokai
+:imagesdir: ../images
+:icons: font
+//------------------------------------------
+
+WARNING: Work in progress.
+
+//------------------------------------------
+
+.A simple class (only a name) in plantUML
+[plantuml, Simple, svg, width=50%, pdfwidth=50%, align=center]   
+....
+include::images/Simple.plantuml[]
+....
+
+.And its code
+[source,plantuml]
+....
+include::images/Simple.plantuml[]
+....
+
+.Or its java implementation
+[source,java]
+....
+include::examples/Simple.java[]
+....
