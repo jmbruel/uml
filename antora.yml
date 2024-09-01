@@ -1,0 +1,19 @@
+# https://docs.antora.org/antora/2.3/component-version-descriptor/
+
+# https://docs.antora.org/antora/2.3/component-name-and-version/
+name: uml
+version: '1.0'
+
+# https://docs.antora.org/antora/2.3/component-display-version/
+# display_version: α
+
+# https://docs.antora.org/antora/2.3/component-title/
+title: Unified Modeling Language
+
+# https://docs.antora.org/antora/2.3/component-start-page/
+start_page: ROOT:properties.adoc
+
+# https://docplayer.fr/169511571-Asciidoc-asciidoctor-antora.html
+nav:
+- modules/ROOT/nav.adoc
+
